@@ -1,0 +1,6 @@
+# Chart.yaml
+
+apiVersion: v2
+name: redis-cluster-helm-chart
+description: A Helm chart to deploy a Redis cluster
+version: 0.1.0
